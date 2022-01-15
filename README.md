@@ -1,1 +1,1 @@
-# Linux_in_Neuroimage
+# Linux in Neuroimage
